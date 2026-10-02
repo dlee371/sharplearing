@@ -1,0 +1,15 @@
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/bin/Debug/net10.0/Lesson1
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/bin/Debug/net10.0/Lesson1.deps.json
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/bin/Debug/net10.0/Lesson1.runtimeconfig.json
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/bin/Debug/net10.0/Lesson1.dll
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/bin/Debug/net10.0/Lesson1.pdb
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.AssemblyInfoInputs.cache
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.AssemblyInfo.cs
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.csproj.CoreCompileInputs.cache
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.sourcelink.json
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.dll
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/refint/Lesson1.dll
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.pdb
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/Lesson1.genruntimeconfig.cache
+/Users/davidlee/test/crap/workspace/sharplearing/Lesson1/obj/Debug/net10.0/ref/Lesson1.dll
