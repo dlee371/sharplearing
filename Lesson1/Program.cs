@@ -24,7 +24,16 @@ else
 }
 
 // Loops
-for (int i = 1; i <= 3; i++)
+for (int i = 1; i <= favorite; i++)
 {
     Console.WriteLine($"Rep {i}");
 }
+
+Console.WriteLine("What's the total bill? ");
+decimal total;
+string? boi = Console.ReadLine();
+total = decimal.TryParse(boi, out total);
+decimal tip = total * 0.15;
+decimal tot = tip + total;
+
+Console.WriteLine($"Total is: {tot}");
